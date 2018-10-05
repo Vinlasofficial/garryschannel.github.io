@@ -1,0 +1,178 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1538404506882">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="342373119" ref="video:index:news"/>
+    <file name="nomq_preview_master_a-master.css" crc="368078244" ref="video:index:news"/>
+    <file name="video.css" crc="3858265034" ref="video"/>
+    <file name="nomq_video.css" crc="4281941286" ref="video"/>
+    <file name="index.css" crc="379492614" ref="index"/>
+    <file name="nomq_index.css" crc="172439482" ref="index"/>
+    <file name="news.css" crc="533238236" ref="news"/>
+    <file name="nomq_news.css" crc="4202854821" ref="news"/>
+  </folder>
+  <folder name="fonts">
+    <file name="new_channel_fontbold.woff" crc="338347177"/>
+    <file name="new_channel_fontbold.eot" crc="45951979"/>
+    <file name="new_channel_fontbold.svg" crc="3812136092"/>
+    <file name="new_channel_fontblack.woff" crc="4022974874"/>
+    <file name="new_channel_fontblack.eot" crc="133580179"/>
+    <file name="new_channel_fontblack.svg" crc="374934150"/>
+    <file name="new_channel_fontmedium.woff" crc="4084285112"/>
+    <file name="new_channel_fontmedium.eot" crc="442794389"/>
+    <file name="new_channel_fontmedium.svg" crc="123587520"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:news:video"/>
+    <file name="museutils.js" crc="4216313831" ref="index:news:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:news:video"/>
+    <file name="museconfig.js" crc="474374037" ref="index:news:video"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:video"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:news:video"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:news:video"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:news:video"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:video:news"/>
+    <file name="require.js" crc="3951022091" ref="index:news:video"/>
+  </folder>
+  <folder name="images">
+    <file name="3р2.jpg" crc="3867536831" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="gmm-2.png" crc="4270514252" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="gmm-3.png" crc="106558112" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="без-имени-1.jpg" crc="297863636" ref="index:video">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:news:video"/>
+    <file name="п2.jpg" crc="3977968861" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="nx.jpg" crc="440496935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="nx249x140.jpg" crc="4028879217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gag2230x154.jpg" crc="435960626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gag2.jpg" crc="4152399180" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nx-kosm.jpg" crc="3879709331" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-logo-copy.png" crc="4146819058" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="vk-logo-copy-u4299-r-fr.png" crc="300532644" ref="index"/>
+    <file name="on_color_large.png" crc="75251313" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="on_color_large-u4300-r-fr.png" crc="483344392" ref="index"/>
+    <file name="gmm213gf2.jpg" crc="43325721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="y23y.jpg" crc="4023025323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wall2.png" crc="15649043" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmm213gf2-crop-u1168.jpg" crc="4256915458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4030287799" seo="true" mt="1538404503298" redirect="true"/>
+  <file name="news.html" crc="4218953765" seo="true" mt="1538404503097" redirect="true"/>
+  <file name="video.html" crc="217271102" seo="true" mt="1538404503097" redirect="true"/>
+</manifest>
